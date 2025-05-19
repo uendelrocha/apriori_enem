@@ -1,0 +1,101 @@
+Passo 1: Carregando e pré-processando os dados...
+Dataset original carregado com 2704814 linhas.
+Amostra de 540963 linhas selecionada (fração: 0.2).
+Número de transações processadas: 540963
+Exemplo de transação processada: ['Q004_D', 'Q021_B', 'Q005_4', 'Q025_B', 'Q011_A']...
+
+Passo 2: Executando o algoritmo Apriori com min_support = 0.2...
+Número de candidatos C1 únicos: 268
+Número de itemsets frequentes L1 (suporte >= 0.2): 57
+
+--- Gerando itemsets de tamanho 2 ---
+Número de candidatos C2 gerados (após apriori_gen): 1596
+Número de itemsets frequentes L2 (suporte >= 0.2): 762
+
+--- Gerando itemsets de tamanho 3 ---
+Número de candidatos C3 gerados (após apriori_gen): 5912
+Número de itemsets frequentes L3 (suporte >= 0.2): 4689
+
+--- Gerando itemsets de tamanho 4 ---
+Número de candidatos C4 gerados (após apriori_gen): 19223
+Número de itemsets frequentes L4 (suporte >= 0.2): 17176
+
+--- Gerando itemsets de tamanho 5 ---
+Número de candidatos C5 gerados (após apriori_gen): 45636
+Número de itemsets frequentes L5 (suporte >= 0.2): 42100
+
+--- Gerando itemsets de tamanho 6 ---
+Número de candidatos C6 gerados (após apriori_gen): 78036
+Número de itemsets frequentes L6 (suporte >= 0.2): 72771
+
+--- Gerando itemsets de tamanho 7 ---
+Número de candidatos C7 gerados (após apriori_gen): 96922
+Número de itemsets frequentes L7 (suporte >= 0.2): 90838
+
+--- Gerando itemsets de tamanho 8 ---
+Número de candidatos C8 gerados (após apriori_gen): 87551
+Número de itemsets frequentes L8 (suporte >= 0.2): 82230
+
+--- Gerando itemsets de tamanho 9 ---
+Número de candidatos C9 gerados (após apriori_gen): 57140
+Número de itemsets frequentes L9 (suporte >= 0.2): 53755
+
+--- Gerando itemsets de tamanho 10 ---
+Número de candidatos C10 gerados (após apriori_gen): 26082
+Número de itemsets frequentes L10 (suporte >= 0.2): 24503
+
+--- Gerando itemsets de tamanho 11 ---
+Número de candidatos C11 gerados (após apriori_gen): 7741
+Número de itemsets frequentes L11 (suporte >= 0.2): 7243
+
+--- Gerando itemsets de tamanho 12 ---
+Número de candidatos C12 gerados (após apriori_gen): 1296
+Número de itemsets frequentes L12 (suporte >= 0.2): 1212
+
+--- Gerando itemsets de tamanho 13 ---
+Número de candidatos C13 gerados (após apriori_gen): 93
+Número de itemsets frequentes L13 (suporte >= 0.2): 87
+
+--- Gerando itemsets de tamanho 14 ---
+Número de candidatos C14 gerados (após apriori_gen): 1
+Número de itemsets frequentes L14 (suporte >= 0.2): 1
+
+--- Gerando itemsets de tamanho 15 ---
+Número de candidatos C15 gerados (após apriori_gen): 0
+Nenhum candidato C15 gerado. Fim do algoritmo.
+
+--- Resultados Finais ---
+Total de itemsets frequentes encontrados: 397424
+Alguns itemsets frequentes e seus suportes (top 20 ordenados por suporte):
+Itemset: {'TP_NACIONALIDADE_1.0'}, Suporte: 0.9774
+Itemset: {'Q017_A'}, Suporte: 0.9613
+Itemset: {'Q017_A', 'TP_NACIONALIDADE_1.0'}, Suporte: 0.9394
+Itemset: {'Q012_B'}, Suporte: 0.9247
+Itemset: {'Q025_B'}, Suporte: 0.9183
+Itemset: {'TP_ESTADO_CIVIL_1.0'}, Suporte: 0.9115
+Itemset: {'Q007_A'}, Suporte: 0.9067
+Itemset: {'Q012_B', 'TP_NACIONALIDADE_1.0'}, Suporte: 0.9037
+Itemset: {'Q023_A'}, Suporte: 0.8980
+Itemset: {'Q025_B', 'TP_NACIONALIDADE_1.0'}, Suporte: 0.8980
+Itemset: {'Q017_A', 'Q012_B'}, Suporte: 0.8966
+Itemset: {'TP_ESTADO_CIVIL_1.0', 'TP_NACIONALIDADE_1.0'}, Suporte: 0.8913
+Itemset: {'Q017_A', 'Q007_A'}, Suporte: 0.8872
+Itemset: {'Q007_A', 'TP_NACIONALIDADE_1.0'}, Suporte: 0.8858
+Itemset: {'Q017_A', 'Q025_B'}, Suporte: 0.8800
+Itemset: {'Q023_A', 'TP_NACIONALIDADE_1.0'}, Suporte: 0.8773
+Itemset: {'Q017_A', 'Q012_B', 'TP_NACIONALIDADE_1.0'}, Suporte: 0.8761
+Itemset: {'Q017_A', 'TP_ESTADO_CIVIL_1.0'}, Suporte: 0.8755
+Itemset: {'Q017_A', 'Q023_A'}, Suporte: 0.8705
+Itemset: {'Q017_A', 'Q007_A', 'TP_NACIONALIDADE_1.0'}, Suporte: 0.8667
+
+Itemsets frequentes com 2 ou mais itens (top 10 por suporte):
+Itemset: {'Q017_A', 'TP_NACIONALIDADE_1.0'}, Suporte: 0.9394
+Itemset: {'Q012_B', 'TP_NACIONALIDADE_1.0'}, Suporte: 0.9037
+Itemset: {'Q025_B', 'TP_NACIONALIDADE_1.0'}, Suporte: 0.8980
+Itemset: {'Q017_A', 'Q012_B'}, Suporte: 0.8966
+Itemset: {'TP_ESTADO_CIVIL_1.0', 'TP_NACIONALIDADE_1.0'}, Suporte: 0.8913
+Itemset: {'Q017_A', 'Q007_A'}, Suporte: 0.8872
+Itemset: {'Q007_A', 'TP_NACIONALIDADE_1.0'}, Suporte: 0.8858
+Itemset: {'Q017_A', 'Q025_B'}, Suporte: 0.8800
+Itemset: {'Q023_A', 'TP_NACIONALIDADE_1.0'}, Suporte: 0.8773
+Itemset: {'Q017_A', 'Q012_B', 'TP_NACIONALIDADE_1.0'}, Suporte: 0.8761

@@ -1,0 +1,146 @@
+EFFICIENTLY MINING LONG PATTERNS FROM DATABASES
+ Roberto J. Bayardo Jr.
+ IBM Almaden Research Center
+ http://www.almaden.ibm.com/cs/people/bayardo/
+ bayardo@alum.mit.edu
+ 
+ 
+ 
+FAST ALGORITHMS FOR MINING ASSOCIATION
+Rakesh Agrawal
+Ramakrishnan Srikant* 
+IBM Almaden Research Center 
+650 Harry Road, San Jose, CA 95120
+
+73874790939762173925332365231284392588323580291586964828364365227012906965244533141787933486648237493269876818342023306902360050
+
+ARULESPY: EXPLORING ASSOCIATION RULES AND FREQUENT ITEMSETS IN PYTHON
+ A Preprint
+ Michael Hahsler
+ arXiv:2305.15263v1  [cs.DB]  24 May 2023
+ Department of Computer Science
+ Southern Methodist University
+ Dallas, TX 75275
+ mhahsler@lyle.smu.edu
+ 
+ 
+ 
+HAHSLER, Michael. A PROBABILISTIC COMPARISON OF COMMONLY USED INTEREST MEASURES FOR ASSOCIATION RULES. 2024
+
+
+KLEMETTINEN, Mika; MANNILA, Heikki; RONKAINEN, Pirjo; TOIVONEN, Hannu; VERKAMO, A. Inkeri. FINDING INTERESTING RULES FROM LARGE SETS OF DISCOVERED ASSOCIATION RULES. 1994
+ 
+ Department of Computer Science
+ University of Helsinki
+ P.O. Box 26, FIN-00014 University of Helsinki, Finland
+ mannila@cs.helsinki.
+ 
+FREITAS, Alex A.. UNDERSTANDING THE CRUCIAL DIFFERENCES BETWEEN CLASSIFICATION AND DISCOVERY OF ASSOCIATION RULES. 2000.
+
+ Pontificia Universidade Catolica - Parana
+ Dept. of Computer Science
+ Rua Imaculada Conceicao, 1155
+ Curitiba – PR, 80215-901. Brazil
+ http://www.ppgia.pucpr.br/~alex
+ alex@ppgia.pucpr.br
+ 
+ 
+DATTA, Debabrata; DE, Atindriya; ROY, Deborupa; DUTTA, Soumodeep. APRIORI ALGORITHM USING HASHING FOR FREQUENT ITEMSETS MINING. 2018. International Journal of Education and Management
+Engineering(IJEME), Vol.8, No.6, pp.46-58, 2018. DOI: 10.5815/ijeme.2018.06.05.
+
+Debabrata Datta a,*
+, Atindriya De b
+, Deborupa Roy c
+, Soumodeep Dutta d
+a
+St. Xavier’s College (Autonomous), Kolkata, India
+b
+Jadavpur University, Kolkata, India
+cCalcutta University, Kolkata, India
+d Banaras Hindu University, Varanasi, India
+Received: 31 March 2018; Accepted: 06 August 2018; Published: 08 November 2018
+ 
+ 
+SAVASERE, Ashok; OMIECINSKI, Edward; NAVATHE, Shamkant. AN EFFICIENT ALGORITHM FOR MINING ASSOCIATION RULES IN LARGE DATABASES. 1995. 21st VLDB Conference. Zurich, Swizerland, 1995. URL: https://www.vldb.org/conf/1995/P432.PDF
+
+College of Computing
+Georgia In&ute of Technology
+Atlanta, GA 30332
+e-mail: {ashok, edwardo, sham}Qcc .gatech. edu 
+
+WU, Haotong. DATA ASSOCIATION RULES MINING METHOD BASED ON IMPROVED APRIORI ALGORITHM. 2020. ICBDR’20, November 27–29, 2020, Tokyo, Japan. DOI 
+https://doi.org/10.1145/3445945.3445948. URL: https://dl.acm.org/doi/pdf/10.1145/3445945.3445948; https://dl.acm.org/doi/fullHtml/10.1145/3445945.3445948.
+Haotong Wu*
+University of California San Diego, USA
+
+AHMED, Shakil; COENEN, Frans; LENG, Paul. TREE-BASED PARTITIONING OF DATA FOR ASSOCIATION RULE MINING. Department of Computer Science, The University of Liverpool. URL: https://intranet.csc.liv.ac.uk/~frans/PostScriptFiles/kaisGo2005.pdf
+Liverpool L69 3BX, UK
+{shakil,frans,phl}@csc.liv.ac.uk
+
+
+HAHSLER, Michael; GRÜN, Bettina; HORNIK, Kurt; BUCHTA, Christian. Introduction to arules – A computational environment for mining association rules and frequent item sets. URL: https://cran.r-project.org/web/packages/arules/vignettes/arules.pdf
+
+PARK, Jong Soo; CHEN, Ming-S yan; YU, Philip S. An Effective Hash-Based Algorithm for Mining Association Rules. 1995. SIGMOD’95, San Jose, CA USA.
+
+JAGTAP, Nitin P.; ADHIYA, Krishankant P. THE HASH BASE APRIORI TECHNIQUE FOR ASSOCIATION RULE MINING AND DATA SANITIZATION. 2022. SAMRIDDHI: SAMRIDDHI : A Journal of Physical Sciences, Engineering and Technology, 14(4), 24-29. Volume 14. Print ISSN: 2229-7111. Online ISSN: 2454-5767. DOI: 10.18090/samriddhi.v14i04.04. URL: https://smsjournals.com/index.php/SAMRIDDHI/article/view/2551/1493
+
+VANITHA, K.; SANTHI, R. Using hash based apriori algorithm to reduce the candidate 2-itemsets for mining association rule. 2011. Journal of Global Research in Computer Science. URL: https://www.rroij.com/open-access/pdfdownload.php?aid=37481
+Department of Computer Studies1 
+Saranathan College of Engineering1 
+Trichy,India1 
+rkvanithamca@gmail.com1 
+Department of Computer Studies2 
+Saranathan College of Engineering2 
+Trichy, India2 
+anandsanthi@rediff.com2
+
+ZHAO, Zhenyi; JIAN, Zhou; GABA, Gurjot S.; ALROOBAEA, Roobaea; MASUD, Mehedi; RUBAIEE, Saeed. AN IMPROVED ASSOCIATION RULE MINING ALGORITHM FOR LARGE DATA. 2020, 2021. https://doi.org/10.1515/jisys-2020-0121. Journal of Intelligent Systems 2021; 30: 750–762. URL: https://www.degruyterbrill.com/document/doi/10.1515/jisys-2020-0121/html
+
+
+LWIN, Nang K. Z.; TUN, Nay M. IMPROVING ASSOCIATION RULES MINING BY HASHING ALGORITHM. 2010. University of Computer Studies, KyineTong. Myanmar Education Research and Learning. URL: https://meral.edu.mm/record/3355/files/psc2010paper%20(180).pdf
+
+University of Computer Studies, KyineTong 
+nangkhinezarlwin@gmail.com
+ ; naymin.300777@gmail.com
+ 
+ 
+YUAN, Xiuli. AN IMPROVED APRIORI ALGORITHM FOR MINING ASSOCIATION RULES. 2017. School of Shanghai University, Shanghai 200444, China. https://doi.org/10.1063/1.4977361. URL: https://pubs.aip.org/aip/acp/article-pdf/doi/10.1063/1.4977361/13140827/080005_1_online.pdf
+ 
+ 
+ 
+ 
+ 
+LI, Ning; ZENG, Li; HE, Qing; SHI, Zhongzhi. PARALLEL IMPLEMENTATION OF APRIORI ALGORITHM BASED ON MAPREDUCE. 2012. International Journal of Networked and Distributed Computing, Vol. 1, No. 2 (April 2013), 89-96. Atlantis Press. https://doi.org/10.2991/ijndc.2013.1.2.3 https://www.researchgate.net/publication/316749396_Parallel_Implementation_of_Apriori_Algorithm_Based_on_MapReduce 
+
+
+
+WANG, Huan-Bin; GAO, Yang-Jun. RESEARCH ON PARALLELIZATION OF APRIORI ALGORITHMIN ASSOCIATION RULE MINING. 2020. 10th International Conference of Information and Communication Technology(ICICT-2020). Elsevier. Procedia Computer Science, Volume 183, 2021, Pages 641-647. https://www.sciencedirect.com/science/article/pii/S1877050921005858
+
+
+
+NEUPANE, Gokarna. A PARALLEL IMPLEMENTATION OF APRIORI ALGORITHM FOR MINING FREQUENT ITEMSETS IN HADOOP MAPREDUCE FRAMEWORK. 2017. Computer Science and Engineering Theses. 422. https://mavmatrix.uta.edu/cse_theses/422 https://mavmatrix.uta.edu/cgi/viewcontent.cgi?article=1424&context=cse_theses
+
+
+
+SPANDANA, K.; SIRISHA, D.; SHAHIDA, S. PARALLELIZING APRIORI ALGORITHM ON GPU. 2016. International Journal of Computer Applications (0975 – 8887) Volume 155 – No 10, December 2016. https://www.ijcaonline.org/archives/volume155/number10/spandana-2016-ijca-912449.pdf
+
+SHINTANI, Takahiko; KITSUREGAWA, Masaru. PARALLEL MINING ALGORITHMS FOR GENERALIZED ASSOCIATION RULES WITH CLASSIFICATION HIERARCHY. 1998. SIGMOD ‘98 Seattle, WA, USA. https://dl.acm.org/doi/pdf/10.1145/276304.276308
+
+
+
+ 
+TIMOFEJEV, Kirill. DISTRIBUTION OF APRIORI ALGORITHM FOR LUNG CANCER DATA SET USING APOLLO FRAMEWORK. 2023. School of Information Technologies, Tallinn University of Technology. Bachelor’s Thesis. https://digikogu.taltech.ee/et/Download/2512673c-dac2-4647-bc5a-aa0a655e6fad
+ 
+ 
+KESSL, Robert. PARALLEL ALGORITHMS FOR MINING OF FREQUENT ITEMSETS. 2011. PhD programme: Electrical Engineering and Information Technology, Specialization: Computer Science and Engineering. https://arxiv.org/pdf/2108.05038 https://arxiv.org/abs/2108.05038
+
+
+
+SALEHPOUR, H. B.; others. IMPROVEMENT OF APRIORI ALGORITHM USING PARALLELIZATION TECHNIQUE ON MULTI-CPU AND GPU TOPOLOGY. 2024. Wiley, Wireless Communications and Mobile Computing, Volume 2024, Issue 1, Article ID 7716976, 14 pages, Research Article.  https://doi.org/10.1155/2024/7716976 https://onlinelibrary.wiley.com/doi/epdf/10.1155/2024/7716976
+
+
+ 
+SAKHAPARA, Avani M.; BHARATHI, H. N.. COMPARATIVE STUDY OF APRIORI ALGORITHMS FOR PARALLEL MINING OF FREQUENT ITEMSETS. 2014. International Journal of Computer Applications (0975 – 8887), Volume 90 – No 8, March 2014. https://svv-research-data.s3.ap-south-1.amazonaws.com/160069-2.%20Parallel%20DM.pdf
+
+
+
