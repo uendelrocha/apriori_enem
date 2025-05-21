@@ -400,3 +400,10 @@ FodyWeavers.xsd
 # JetBrains Rider
 *.sln.iml
 /notebooks/.ipynb_checkpoints
+notebooks/AtividadeCassandra_colab_UENDEL_ROCHA.ipynb
+notebooks/AtividadeCassandra_colab_UENDEL_ROCHA_FINAL.ipynb
+notebooks/Projeto_FINAL_compartilhado_UENDEL.ipynb
+notebooks/PUCPR_STJ_Projeto_FINAL_GRUPO_UENDEL_VICTOR.ipynb
+referencias/ALGORITMO_APRIORI_ENEM.ANEXO_1.docx
+referencias/ALGORITMO_APRIORI_ENEM.IMPLEMENTACAO_PYTHON_001.docx
+datasources/enem/microdados_enem_2023/DADOS/MICRODADOS_ENEM_2023.parquet
